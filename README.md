@@ -1,4 +1,4 @@
 # Notas.md
-dash
+dash.
 plotly,
 matplot,
