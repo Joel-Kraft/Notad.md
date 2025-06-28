@@ -1,5 +1,5 @@
 # Notas.md,
 dash.i
 plotly,
-matplot, xx
+matplot, x
 ji
