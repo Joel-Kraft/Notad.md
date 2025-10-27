@@ -2,6 +2,3 @@
 dash.i
 matplot, 
 g
-d
-l
-5
